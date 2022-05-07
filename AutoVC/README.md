@@ -1,6 +1,10 @@
 # AutoVC
 AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss
 
+## Drive Folder 
+- [Link](https://drive.google.com/drive/folders/1qWQwfDq56-I38shvF8oK-RW9bskBGg3h?usp=sharing)
+
+
 ## References
 - [MLR Page](http://proceedings.mlr.press/v97/qian19c.html)
 - [Paper](http://proceedings.mlr.press/v97/qian19c/qian19c.pdf)
